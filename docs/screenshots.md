@@ -5,23 +5,27 @@ Visual documentation of the Advanced HomeLab Services & Security setup.
 ## Media Infrastructure
 
 ### Jellyfin Media Server
-![Jellyfin Main Dashboard](./assets/screenshots/jellyfin/jellyfin-main.png)
 *Main dashboard showing organized media libraries with anime, TV shows, and movies*
+![Jellyfin Main Dashboard](./assets/screenshots/jellyfin/jellyfin-main.jpg)
 
-![Jellyfin Episode Metadata](./assets/screenshots/jellyfin/jellyfin-ep-metadata.png)
 *Episode metadata display with detailed information, artwork, and descriptions*
+![Jellyfin Episode Metadata](./assets/screenshots/jellyfin/jellyfin-ep-metadata.jpg)
 
-![Jellyfin Playback Preview](./assets/screenshots/jellyfin/jellyfin-playback-preview.png)
 *Playback interface showing media preview, controls, and streaming options*
+![Jellyfin Playback Preview](./assets/screenshots/jellyfin/jellyfin-playback-preview.jpg)
 
-![Jellyfin Series Import](./assets/screenshots/jellyfin/jellyfin-series-import.png)
 *Series import interface showing library organization and content management*
+![Jellyfin Series Import](./assets/screenshots/jellyfin/jellyfin-series-import.jpg)
 
 ### Automation Services
 
 #### Sonarr TV Show Management
-![Sonarr Main Dashboard](./assets/screenshots/sonarr/sonarr-main.png)
 *Sonarr automation dashboard with active series monitoring and download queue*
+![Sonarr Main Dashboard](./assets/screenshots/sonarr/sonarr-main.jpg)
+
+#### Shoko Anime Metadata Management
+*Shoko server interface showing AniDB metadata integration and anime organization*
+![Shoko Main Dashboard](./assets/screenshots/shoko/shoko-main.jpg)
 
 #### Prowlarr Indexer Management
 ![Prowlarr Search](./assets/screenshots/prowlarr.png)

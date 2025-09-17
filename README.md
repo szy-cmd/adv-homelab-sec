@@ -42,14 +42,17 @@ An evolving personal homelab combining media automation, virtualization, and sec
 
 ## Highlights
 
-![Jellyfin Episode Metadata](./assets/screenshots/jellyfin/jellyfin-ep-metadata.png)
 *Jellyfin episode metadata display with detailed information and artwork*
+![Jellyfin Episode Metadata](./assets/screenshots/jellyfin/jellyfin-ep-metadata.jpg)
 
-![Jellyfin Playback Preview](./assets/screenshots/jellyfin/jellyfin-playback-preview.png)
 *Jellyfin playback interface showing media preview and controls*
+![Jellyfin Playback Preview](./assets/screenshots/jellyfin/jellyfin-playback-preview.jpg)
 
-![Sonarr Main Dashboard](./assets/screenshots/sonarr/sonarr-main.png)
 *Sonarr automation dashboard showing active series monitoring and download queue*
+![Sonarr Main Dashboard](./assets/screenshots/sonarr/sonarr-main.jpg)
+
+*Shoko server interface showing AniDB metadata integration and anime organization*
+![Shoko Main Dashboard](./assets/screenshots/shoko/shoko-main.jpg)
 
 ## Documentation
 
