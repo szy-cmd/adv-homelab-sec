@@ -140,4 +140,4 @@ This project is actively maintained and regularly updated. The homelab continues
 ---
 
 
-*Last updated: 2024-12-19*
+*Last updated: 17-09-2025*
