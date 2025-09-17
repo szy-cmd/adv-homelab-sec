@@ -15,6 +15,20 @@ An evolving personal homelab combining media automation, virtualization, and sec
 
 *Media automation pipeline is fully operational with end-to-end content acquisition and library integration.*
 
+## Server Specifications
+
+### Primary Server
+- **Processor**: Intel Core i5-9400F @ 2.90GHz (6 cores, 6 threads)
+- **Graphics**: NVIDIA GTX 1080
+- **Memory**: 47GB RAM
+- **Purpose**: Media server, automation, and virtualization host
+
+### Infrastructure
+- **Number of Servers**: 1 primary server
+- **Operating System**: Windows Server/Linux (TBD)
+- **Storage**: Multiple drives for media and system files
+- **Network**: Gigabit Ethernet with planned VLAN segmentation
+
 ## Roadmap
 
 ### Phase 1: Network Security & Remote Access
