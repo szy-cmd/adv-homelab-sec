@@ -109,4 +109,4 @@ These plugins extend Jellyfin's functionality and enrich the metadata pipeline a
 
 *This integration setup provides comprehensive metadata coverage and enhanced functionality across all media types in the homelab environment.*
 
-**Last Updated**: 2024-12-19
+**Last Updated**: 17-09-2025
