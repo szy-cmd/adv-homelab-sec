@@ -8,7 +8,7 @@ This document outlines the planned features and milestones for the Advanced Home
 - [x] **Media Server Setup** - Jellyfin configured and running
 - [x] **Anime Metadata** - Shoko server integration
 - [x] **Automation Pipeline** - Sonarr, Radarr, Prowlarr setup
-- [ ] **Media Organization** - Automated library management
+- [x] **Media Organization** - Automated library management
 - [ ] **Backup Strategy** - Media backup and redundancy
 
 ### Phase 2: Network Security (Planned)

@@ -10,7 +10,7 @@ This repository documents my ongoing journey of building a personal **HomeLab** 
 
 ### Media Management
 - **[Jellyfin](https://github.com/jellyfin/jellyfin)** - Media streaming server
-- **[Shoko](https://github.com/shokoanime/shoko-server)** - Anime metadata management
+- **[Shoko](https://github.com/shokoanime)** - Anime metadata management
 - **[Sonarr](https://github.com/Sonarr/Sonarr)** - TV show automation
 - **[Radarr](https://github.com/Radarr/Radarr)** - Movie automation
 - **[Prowlarr](https://github.com/Prowlarr/Prowlarr)** - Indexer manager
@@ -19,6 +19,7 @@ This repository documents my ongoing journey of building a personal **HomeLab** 
 
 - 📋 [Roadmap](./docs/roadmap.md) - Planned features and improvements
 - 📝 [Changelog](./docs/changelog.md) - Recent updates and changes
+- 🔧 [Integration Guide](./docs/integration-guide.md) - Jellyfin + Shoko + Sonarr/Radarr setup
 
 ## Getting Started
 
