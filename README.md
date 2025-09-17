@@ -2,6 +2,8 @@
 
 *by [szy-cmd](https://github.com/szy-cmd)*
 
+![Advanced HomeLab Banner](./assets/screenshots/banner/banner-adv-homelab.png)
+
 An evolving personal homelab combining media automation, virtualization, and security.
 
 ## Table of Contents
