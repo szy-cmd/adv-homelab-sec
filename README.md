@@ -42,25 +42,11 @@ An evolving personal homelab combining media automation, virtualization, and sec
 
 ## Highlights
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Jellyfin Dashboard                                         │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  [Jellyfin Interface Screenshot]                   │   │
-│  │  Media server with organized anime and TV libraries │   │
-│  └─────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────┘
-```
+![Jellyfin Dashboard](./assets/screenshots/jellyfin.png)
+*Jellyfin media server with organized anime and TV show libraries*
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Sonarr Automation                                         │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  [Sonarr Dashboard Screenshot]                     │   │
-│  │  Active series monitoring and download queue        │   │
-│  └─────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────┘
-```
+![Sonarr Automation](./assets/screenshots/sonarr.png)
+*Sonarr automation dashboard showing active series monitoring*
 
 ## Documentation
 
