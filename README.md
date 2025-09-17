@@ -42,11 +42,14 @@ An evolving personal homelab combining media automation, virtualization, and sec
 
 ## Highlights
 
-![Jellyfin Dashboard](./assets/screenshots/jellyfin.png)
-*Jellyfin media server with organized anime and TV show libraries*
+![Jellyfin Episode Metadata](./assets/screenshots/jellyfin/jellyfin-ep-metadata.png)
+*Jellyfin episode metadata display with detailed information and artwork*
 
-![Sonarr Automation](./assets/screenshots/sonarr.png)
-*Sonarr automation dashboard showing active series monitoring*
+![Jellyfin Playback Preview](./assets/screenshots/jellyfin/jellyfin-playback-preview.png)
+*Jellyfin playback interface showing media preview and controls*
+
+![Sonarr Main Dashboard](./assets/screenshots/sonarr/sonarr-main.png)
+*Sonarr automation dashboard showing active series monitoring and download queue*
 
 ## Documentation
 

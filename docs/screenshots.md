@@ -5,23 +5,23 @@ Visual documentation of the Advanced HomeLab Services & Security setup.
 ## Media Infrastructure
 
 ### Jellyfin Media Server
-![Jellyfin Dashboard](./assets/screenshots/jellyfin.png)
+![Jellyfin Main Dashboard](./assets/screenshots/jellyfin/jellyfin-main.png)
 *Main dashboard showing organized media libraries with anime, TV shows, and movies*
 
-![Jellyfin TV Interface](./assets/screenshots/jellyfin-tv.png)
-*Jellyfin interface on smart TV showing clean, organized content*
+![Jellyfin Episode Metadata](./assets/screenshots/jellyfin/jellyfin-ep-metadata.png)
+*Episode metadata display with detailed information, artwork, and descriptions*
 
-![Jellyfin Mobile](./assets/screenshots/jellyfin-mobile.png)
-*Jellyfin mobile app on iPad with responsive design*
+![Jellyfin Playback Preview](./assets/screenshots/jellyfin/jellyfin-playback-preview.png)
+*Playback interface showing media preview, controls, and streaming options*
+
+![Jellyfin Series Import](./assets/screenshots/jellyfin/jellyfin-series-import.png)
+*Series import interface showing library organization and content management*
 
 ### Automation Services
 
 #### Sonarr TV Show Management
-![Sonarr Dashboard](./assets/screenshots/sonarr.png)
+![Sonarr Main Dashboard](./assets/screenshots/sonarr/sonarr-main.png)
 *Sonarr automation dashboard with active series monitoring and download queue*
-
-![Sonarr Series List](./assets/screenshots/sonarr-series.png)
-*Comprehensive series list showing monitoring status and quality profiles*
 
 #### Prowlarr Indexer Management
 ![Prowlarr Search](./assets/screenshots/prowlarr.png)
