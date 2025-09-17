@@ -62,7 +62,7 @@ This document outlines the planned features and milestones for the Advanced Home
 
 ---
 
-*Last updated: 2024-12-19*
+*Last updated: 17-09-2025*
 
 **Legend:**
 - ✅ Completed
