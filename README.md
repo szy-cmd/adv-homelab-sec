@@ -1,8 +1,8 @@
+![Advanced HomeLab Banner](./assets/screenshots/banner/banner-adv-homelab.png)
+
 # Advanced HomeLab Services & Security
 
 *by [szy-cmd](https://github.com/szy-cmd)*
-
-![Advanced HomeLab Banner](./assets/screenshots/banner/banner-adv-homelab.png)
 
 An evolving personal homelab combining media automation, virtualization, and security.
 
