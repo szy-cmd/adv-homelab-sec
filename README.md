@@ -114,6 +114,7 @@ See more screenshots and setup details [here](./docs/screenshots.md).
 - [Changelog](./docs/changelog.md) - Complete version history and updates
 - [Integration Guide](./docs/integration-guide.md) - Technical setup and configuration details
 - [Screenshots](./docs/screenshots.md) - Visual documentation of the homelab setup
+- [Plugin Integrations](./docs/integrations.md) - Jellyfin plugins and metadata sources
 
 ## Repository Structure
 
