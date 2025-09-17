@@ -17,63 +17,15 @@ Visual documentation of the Advanced HomeLab Services & Security setup.
 *Series import interface showing library organization and content management*
 ![Jellyfin Series Import](./assets/screenshots/jellyfin/jellyfin-series-import.jpg)
 
-### Automation Services
+## Automation Services
 
-#### Sonarr TV Show Management
+### Sonarr TV Show Management
 *Sonarr automation dashboard with active series monitoring and download queue*
 ![Sonarr Main Dashboard](./assets/screenshots/sonarr/sonarr-main.jpg)
 
-#### Shoko Anime Metadata Management
+### Shoko Anime Metadata Management
 *Shoko server interface showing AniDB metadata integration and anime organization*
 ![Shoko Main Dashboard](./assets/screenshots/shoko/shoko-main.jpg)
-
-#### Prowlarr Indexer Management
-![Prowlarr Search](./assets/screenshots/prowlarr.png)
-*Prowlarr search interface with multiple indexer sources and filtering options*
-
-#### Shoko Metadata Integration
-![Shoko Metadata](./assets/screenshots/shoko.png)
-*Shoko server interface showing AniDB metadata integration and anime organization*
-
-### Download and Storage
-
-#### qBittorrent Setup
-![qBittorrent Interface](./assets/screenshots/qbittorrent.png)
-*qBittorrent download client with organized torrent management*
-
-#### Storage Organization
-![File Structure](./assets/screenshots/storage.png)
-*Organized file structure showing automated naming conventions and folder hierarchy*
-
-## Network and Security
-
-### VPN Configuration
-![VPN Setup](./assets/screenshots/vpn.png)
-*WireGuard VPN configuration for secure remote access*
-
-### Network Monitoring
-![Network Dashboard](./assets/screenshots/network.png)
-*Network traffic monitoring and security dashboard*
-
-## Development and Virtualization
-
-### VM Management
-![VM Dashboard](./assets/screenshots/vm.png)
-*Virtual machine management interface showing isolated test environments*
-
-### F1 Strategy AI Project
-![AI Project](./assets/screenshots/f1-ai.png)
-*F1 Strategy AI application running in secure VM with web interface*
-
-## Monitoring and Analytics
-
-### System Monitoring
-![System Dashboard](./assets/screenshots/monitoring.png)
-*Grafana dashboard showing system performance and resource utilization*
-
-### Security Monitoring
-![Security Dashboard](./assets/screenshots/security.png)
-*Security monitoring interface with intrusion detection and threat analysis*
 
 ---
 
