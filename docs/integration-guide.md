@@ -183,4 +183,4 @@ The integration creates a seamless workflow where:
 
 *This guide provides a theoretical framework for integrating your HomeLab media services. Actual implementation may vary based on your specific setup and requirements.*
 
-**Last Updated**: 2024-12-19
+**Last Updated**: 17-09-2025
