@@ -4,16 +4,28 @@
 
 An evolving personal homelab combining media automation, virtualization, and security.
 
+## Table of Contents
+
+- [Current Stack](#current-stack)
+- [Server Specifications](#server-specifications)
+- [Highlights](#highlights)
+- [Roadmap](#roadmap)
+- [Changelog](#changelog)
+- [Documentation](#documentation)
+- [Repository Structure](#repository-structure)
+- [Project Status](#project-status)
+- [Disclaimer](#disclaimer)
+
 ## Current Stack
 
 ### Media Infrastructure
-- **[Jellyfin](https://github.com/jellyfin/jellyfin)** - Self-hosted media streaming server with transcoding support
-- **[Shoko](https://github.com/shokoanime)** - Anime metadata management with AniDB integration
-- **[Sonarr](https://github.com/Sonarr/Sonarr)** - Automated TV show downloading and organization
-- **[Radarr](https://github.com/Radarr/Radarr)** - Automated movie downloading and library management
-- **[Prowlarr](https://github.com/Prowlarr/Prowlarr)** - Indexer manager for torrent and usenet sources
+- **[Jellyfin](https://github.com/jellyfin/jellyfin)** - Self-hosted media streaming server with transcoding support and cross-platform compatibility
+- **[Shoko](https://github.com/shokoanime)** - Anime metadata management with AniDB integration and comprehensive cataloging
+- **[Sonarr](https://github.com/Sonarr/Sonarr)** - Automated TV show downloading, organization, and quality management
+- **[Radarr](https://github.com/Radarr/Radarr)** - Automated movie downloading, library management, and quality upgrades
+- **[Prowlarr](https://github.com/Prowlarr/Prowlarr)** - Indexer manager for torrent and usenet sources with unified search
 
-*Media automation pipeline is fully operational with end-to-end content acquisition and library integration.*
+**Status**: ✅ **Media automation pipeline is fully operational with end-to-end content acquisition and library integration.**
 
 ## Server Specifications
 
@@ -29,31 +41,6 @@ An evolving personal homelab combining media automation, virtualization, and sec
 - **Storage**: Multiple drives for media and system files
 - **Network**: Gigabit Ethernet with planned VLAN segmentation
 
-## Roadmap
-
-### Phase 1: Network Security & Remote Access
-- **VPN and secure remote access** - WireGuard/OpenVPN setup for secure external connectivity
-- **Reverse proxy** - NGINX/Traefik configuration for secure service exposure
-- **Firewall hardening + VLAN isolation** - Network segmentation and traffic filtering
-
-### Phase 2: Monitoring & Security Tools
-- **Grafana + Prometheus dashboards** - Comprehensive system and service monitoring
-- **IDS/IPS tools** - Wazuh, Suricata, and Fail2Ban for intrusion detection and prevention
-
-### Phase 3: Virtualization & Development
-- **VM environments** - Isolated test environments using Proxmox/ESXi
-- **F1 Strategy AI project** - Hosting custom AI application in secure VM with web access
-
-## Changelog
-
-- **v0.1** - Initial Setup (Jellyfin + Shoko configuration)
-- **v0.2** - Media Automation (Sonarr, Radarr, Prowlarr integration)
-- **v0.3** - Documentation (Repository structure and README)
-- **v0.4** - VPN and remote access implementation
-- **v0.5** - Reverse proxy and SSL configuration
-- **v0.6** - Network security and monitoring setup
-- **v0.7** - Virtualization and AI project hosting
-
 ## Highlights
 
 *Jellyfin episode metadata display with detailed information and artwork*
@@ -67,6 +54,59 @@ An evolving personal homelab combining media automation, virtualization, and sec
 
 *Shoko server interface showing AniDB metadata integration and anime organization*
 ![Shoko Main Dashboard](./assets/screenshots/shoko/shoko-main.jpg)
+
+**Note**: All screenshots are from my personal self-hosted media library. No copyrighted content or download links are included.
+
+See more screenshots and setup details [here](./docs/screenshots.md).
+
+## Roadmap
+
+<details>
+<summary><strong>Phase 1: Network Security & Remote Access</strong> ⏳</summary>
+
+- **VPN and secure remote access** - WireGuard/OpenVPN setup for secure external connectivity
+- **Reverse proxy** - NGINX/Traefik configuration for secure service exposure  
+- **Firewall hardening + VLAN isolation** - Network segmentation and traffic filtering
+
+*This phase focuses on securing external access and implementing proper network segmentation to protect the homelab infrastructure.*
+</details>
+
+<details>
+<summary><strong>Phase 2: Monitoring & Security Tools</strong> ⏳</summary>
+
+- **Grafana + Prometheus dashboards** - Comprehensive system and service monitoring
+- **IDS/IPS tools** - Wazuh, Suricata, and Fail2Ban for intrusion detection and prevention
+
+*This phase implements comprehensive monitoring and security tools to maintain visibility and protect against threats.*
+</details>
+
+<details>
+<summary><strong>Phase 3: Virtualization & Development</strong> ⏳</summary>
+
+- **VM environments** - Isolated test environments using Proxmox/ESXi
+- **F1 Strategy AI project** - Hosting custom AI application in secure VM with web access
+
+*This phase adds virtualization capabilities and hosts custom development projects in isolated environments.*
+</details>
+
+## Changelog
+
+<details>
+<summary><strong>Completed Versions</strong> ✅</summary>
+
+- **v0.1** - Initial Setup (Jellyfin + Shoko configuration)
+- **v0.2** - Media Automation (Sonarr, Radarr, Prowlarr integration)
+- **v0.3** - Documentation (Repository structure and README)
+</details>
+
+<details>
+<summary><strong>Planned Versions</strong> ⏳</summary>
+
+- **v0.4** - VPN and remote access implementation
+- **v0.5** - Reverse proxy and SSL configuration
+- **v0.6** - Network security and monitoring setup
+- **v0.7** - Virtualization and AI project hosting
+</details>
 
 ## Documentation
 
