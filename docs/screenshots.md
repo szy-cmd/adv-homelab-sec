@@ -31,4 +31,4 @@ Visual documentation of the Advanced HomeLab Services & Security setup.
 
 *Screenshots are updated regularly as the homelab evolves. Check back for new additions and improvements.*
 
-**Last Updated**: 2024-12-19
+**Last Updated**: 17-09-2025
