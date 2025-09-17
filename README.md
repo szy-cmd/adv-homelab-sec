@@ -90,6 +90,10 @@ adv-homelab-sec/
 
 This project is actively maintained and regularly updated. The homelab continues to evolve with new services, security enhancements, and automation improvements. Check the [changelog](./docs/changelog.md) for recent updates and the [roadmap](./docs/roadmap.md) for upcoming features.
 
+## Disclaimer
+
+**Media Content Usage**: Any images of shows, TV series, anime, or movies displayed in screenshots are used solely for educational and informative purposes to demonstrate the functionality of the homelab services. These screenshots serve as proof of functionality for UI interfaces, dashboards, and system capabilities. No copyright infringement is intended, and all media content shown is for technical demonstration purposes only.
+
 ---
 
 *Last updated: 2024-12-19*
