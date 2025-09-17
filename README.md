@@ -2,28 +2,73 @@
 
 *by [szy-cmd](https://github.com/szy-cmd)*
 
-## Overview
+An evolving personal homelab combining media automation, virtualization, and security.
 
-This repository documents my ongoing journey of building a personal **HomeLab** environment starting with media automation and evolving into **network security, virtualization, and AI hosting.**
+## Current Stack
 
-## Current Services
+### Media Infrastructure
+- **[Jellyfin](https://github.com/jellyfin/jellyfin)** - Self-hosted media streaming server with transcoding support
+- **[Shoko](https://github.com/shokoanime)** - Anime metadata management with AniDB integration
+- **[Sonarr](https://github.com/Sonarr/Sonarr)** - Automated TV show downloading and organization
+- **[Radarr](https://github.com/Radarr/Radarr)** - Automated movie downloading and library management
+- **[Prowlarr](https://github.com/Prowlarr/Prowlarr)** - Indexer manager for torrent and usenet sources
 
-### Media Management
-- **[Jellyfin](https://github.com/jellyfin/jellyfin)** - Media streaming server
-- **[Shoko](https://github.com/shokoanime)** - Anime metadata management
-- **[Sonarr](https://github.com/Sonarr/Sonarr)** - TV show automation
-- **[Radarr](https://github.com/Radarr/Radarr)** - Movie automation
-- **[Prowlarr](https://github.com/Prowlarr/Prowlarr)** - Indexer manager
+*Media automation pipeline is fully operational with end-to-end content acquisition and library integration.*
+
+## Roadmap
+
+### Phase 1: Network Security & Remote Access
+- **VPN and secure remote access** - WireGuard/OpenVPN setup for secure external connectivity
+- **Reverse proxy** - NGINX/Traefik configuration for secure service exposure
+- **Firewall hardening + VLAN isolation** - Network segmentation and traffic filtering
+
+### Phase 2: Monitoring & Security Tools
+- **Grafana + Prometheus dashboards** - Comprehensive system and service monitoring
+- **IDS/IPS tools** - Wazuh, Suricata, and Fail2Ban for intrusion detection and prevention
+
+### Phase 3: Virtualization & Development
+- **VM environments** - Isolated test environments using Proxmox/ESXi
+- **F1 Strategy AI project** - Hosting custom AI application in secure VM with web access
+
+## Changelog
+
+- **v0.1** - Initial Setup (Jellyfin + Shoko configuration)
+- **v0.2** - Media Automation (Sonarr, Radarr, Prowlarr integration)
+- **v0.3** - Documentation (Repository structure and README)
+- **v0.4** - VPN and remote access implementation
+- **v0.5** - Reverse proxy and SSL configuration
+- **v0.6** - Network security and monitoring setup
+- **v0.7** - Virtualization and AI project hosting
+
+## Highlights
+
+![Jellyfin Dashboard](./assets/screenshots/jellyfin.png)
+*Jellyfin media server with organized anime and TV show libraries*
+
+![Sonarr Automation](./assets/screenshots/sonarr.png)
+*Sonarr automation dashboard showing active series monitoring*
 
 ## Documentation
 
-- 📋 [Roadmap](./docs/roadmap.md) - Planned features and improvements
-- 📝 [Changelog](./docs/changelog.md) - Recent updates and changes
-- 🔧 [Integration Guide](./docs/integration-guide.md) - Jellyfin + Shoko + Sonarr/Radarr setup
+- [Roadmap](./docs/roadmap.md) - Detailed development phases and milestones
+- [Changelog](./docs/changelog.md) - Complete version history and updates
+- [Integration Guide](./docs/integration-guide.md) - Technical setup and configuration details
+- [Screenshots](./docs/screenshots.md) - Visual documentation of the homelab setup
 
-## Getting Started
+## Repository Structure
 
-This repository is currently in development. Check the [roadmap](./docs/roadmap.md) for upcoming features and the [changelog](./docs/changelog.md) for recent updates.
+```
+adv-homelab-sec/
+├── docs/                    # Documentation and guides
+├── assets/screenshots/      # Visual documentation
+├── notes/                   # Development notes and research
+├── configs/                 # Configuration files and templates
+└── README.md               # Project overview
+```
+
+## Project Status
+
+This project is actively maintained and regularly updated. The homelab continues to evolve with new services, security enhancements, and automation improvements. Check the [changelog](./docs/changelog.md) for recent updates and the [roadmap](./docs/roadmap.md) for upcoming features.
 
 ---
 
