@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Repository structure and documentation
 - README with service overview
 
-## [0.3.0] - 2024-12-19
+## [0.3.0] - 17-09-2025
 
 ### Added
 - Repository created with initial structure
@@ -21,14 +21,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Improved README formatting and organization
 
-## [0.2.0] - 2024-12-19
+## [0.2.0] - 17-09-2025
 
 ### Added
 - Sonarr, Radarr, and Prowlarr configured
 - End-to-end download pipeline working
 - Content integrated automatically into Jellyfin
 
-## [0.1.0] - 2024-12-19
+## [0.1.0] - 17-09-2025
 
 ### Added
 - Jellyfin + Shoko configured
