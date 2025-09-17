@@ -47,7 +47,7 @@ The integration creates a seamless workflow where:
 ### Phase 2: Automation Pipeline
 
 #### 2.1 Prowlarr Configuration
-1. **Add indexers** (RARBG, 1337x, etc.)
+1. **Add indexers** 
 2. **Configure categories** for different media types
 3. **Set up API keys** for Sonarr/Radarr integration
 4. **Test indexer connectivity**
